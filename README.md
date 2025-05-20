@@ -1,1 +1,2 @@
-## You will find the TP assignment within the master Branch so you can switch the branch to master !
+## You will find the TP assignment within the master Branch so you can switch the branch to master ! you can see the output in the README file description
+## Note: you may find the project containing other folders from previous TP's (WebDevelopment) ...
